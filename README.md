@@ -1,6 +1,6 @@
-## Urine Trouble
+# Urine Trouble
 
-# By: Prince Donkor and Geraldine Salamat
+## By: Prince Donkor and Geraldine Salamat
 
 Urine Trouble is a mobile app that allows you to find the nearest restroom based on your location.
 
